@@ -1,6 +1,8 @@
 ### Comparison Operators
 
+
 [![comparison operators in python [Arabic]](http://img.youtube.com/vi/QLLCT1iYp8E/0.jpg)](http://www.youtube.com/watch?v=QLLCT1iYp8E "comparison operators in python [Arabic]")
+
 
 | Operator | Description                                                                                                       | Example               |
 | -------- | ----------------------------------------------------------------------------------------------------------------- | --------------------- |
