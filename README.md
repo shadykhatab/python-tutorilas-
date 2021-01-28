@@ -13,4 +13,6 @@
     -   [More on dictionary](10_dictionary.markdown)
 9. [Comparison Operators](11_comparison-operators.markdown)
 10. [Control Flow](12_control_flow.markdown)
-11. [Iterations](13_iterations.markdown)
+11. Iterations
+    - [for loop](13_iterations.markdown)
+    - [while loop](14_iterations_p2.markdown)

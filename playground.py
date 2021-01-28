@@ -1,21 +1,4 @@
-my_dictionary = {'day1': "Sunday", 'day2': 'Monday', 'day3': "Tuesday"}
-
-for k in my_dictionary:
-    print(k)
-
-for k in my_dictionary:
-    print(my_dictionary[k])
-
-for e in my_dictionary.items():
-    print(e)
-    print(type(e))
-
-for k, v in my_dictionary.items():
-    print(k)
-    print(v)
-
-for v in my_dictionary.values():
-    print(v)
-
-for k in my_dictionary.values():
-    print(k)
+nums = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+for n in nums:
+    if n % 2 == 0 or n % 3 == 0:
+        print(n)
