@@ -1,18 +1,19 @@
 # python-tutorials _(in progress)_
             
-1. [introduction to python](1_introduction.markdown)
-2. [What is data?](2_what_is_data.markdown)
-3. [Numbers](3_numbers.markdown)
-4. [Variables](4_variable_assignment.markdown)
-5. [Comments](5_comments.markdown)
-6. [Strings](6_strings.markdown)
-7. [List](7_list.markdown)
+1. [introduction to python](10_introduction.markdown) [ ]video
+2. [What is data?](20_what_is_data.markdown) [ ]video
+3. [Numbers](30_numbers.markdown) [ ]video
+4. [Variables](40_variable_assignment.markdown) [ ]video
+5. [Comments](50_comments.markdown) [ ]video
+6. [Strings](60_strings.markdown) [ ]video
+7. [List](70_list.markdown) [ ]video
 8. Dictionary
-    -   [Introduction to dictionary](8_dictionary_intorduction.markdown)
-    -   [Example on dictionary](9_dictionary_first_example.markdown)
-    -   [More on dictionary](10_dictionary.markdown)
-9. [Comparison Operators](11_comparison-operators.markdown)
-10. [Control Flow](12_control_flow.markdown)
+    -   [Introduction to dictionary](80_dictionary_intorduction.markdown) [ ]video
+    -   [Example on dictionary](90_dictionary_first_example.markdown) [ ]video
+    -   [More on dictionary](100_dictionary.markdown) [ ]video
+9. [Comparison Operators](110_comparison-operators.markdown) [x]video
+10. [Control Flow](120_control_flow.markdown) [ ]video
 11. Iterations
-    - [for loop](13_iterations.markdown)
-    - [while loop](14_iterations_p2.markdown)
+    - [for-in loop](130_iterations-for-in.markdown) [ ]video
+    - [for-in range](133_iterations-for-in-range.markdown) [ ]video
+    - [while loop](140_iterations_while.markdown) [ ]video

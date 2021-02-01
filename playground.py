@@ -1,4 +1,4 @@
-nums = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-for n in nums:
-    if n % 2 == 0 or n % 3 == 0:
-        print(n)
+sum = 0
+for i in range(1, 11): 
+    sum = sum + i 
+print("Sum of first 10 natural number :", sum) 
