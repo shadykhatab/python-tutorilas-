@@ -24,7 +24,7 @@ since the two letters are equal, we return true
 
 """
 
-
+"""
 # solution 1
 def animal_crackers(text):
     word_list = text.lower().split()
@@ -38,17 +38,18 @@ res = animal_crackers('Crazy Kangaroo')
 print(res == False)
 res = animal_crackers('Cute cat')
 print((res == True))
-
+"""
 # solution 2
 
 def animal_crackers(text):
     word_list = text.lower().split()
+    print(word_list)
     return word_list[0][0] == word_list[1][0]
 
 
-res = animal_crackers('Levelheaded Llama')
-print(res == True)
-res = animal_crackers('Crazy Kangaroo')
-print(res == False)
-res = animal_crackers('Cute cat')
-print(res == True)
+res = animal_crackers('Levelheaded LlamA')
+# print(res == True)
+# res = animal_crackers('Crazy Kangaroo')
+# print(res == False)
+# res = animal_crackers('Cute cat')
+# print(res == True)

@@ -26,5 +26,37 @@ since the two letters are equal, we return true
 
 # write your code here
 # don't forget to test your code
+"""
 def animal_crackers(text):
-    pass
+    list= text.split()
+    first = list[0]
+    second = list[1]
+    print(first)
+    print(second)
+    letterone= list[0][0]
+    lettertwo= list[1][0]
+    print(letterone)
+    print(lettertwo)
+
+
+    return letterone==lettertwo
+    animal_crackers('Levelheaded abc')
+"""
+
+def animal_crackers(text):
+    list= text.split()
+    first= list[0]
+    second= list[1]
+    print(first)
+    print(second)
+    letterone= list[0][0]
+    lettertwo= list[1][0]
+    print(letterone)
+    print(lettertwo)
+    return letterone == lettertwo
+animal_crackers('Levelheaded abc')
+
+
+
+
+
