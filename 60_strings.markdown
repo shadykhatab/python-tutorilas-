@@ -18,6 +18,12 @@ print('hello \n world')
 print('hello \t world') 
 len('hello')
  
+a = """Lorem ipsum dolor sit amet,
+consectetur adipiscing elit,
+sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua."""
+print(a)
+
 """ 
 escape sequences 
 1- \" ( double quote ) 

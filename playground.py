@@ -1,4 +1,3 @@
-sum = 0
-for i in range(1, 11): 
-    sum = sum + i 
-print("Sum of first 10 natural number :", sum) 
+first_name = "shady"
+last_name = "khatab"
+print(first_name[0], last_name[0])

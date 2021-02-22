@@ -76,3 +76,32 @@ x = car["color"][1]
  
 print(x) 
 ``` 
+
+```python
+prices = {
+    "orange": {"Sat": 1.4, "Mon": 2.5},
+    "banana": {"Sat": 4.5, "Mon": 5.6}
+}
+
+print(prices["orange"]["Sat"])
+
+
+car_models = {
+    "ford" : ["fusion", "mustang", "ranger"],
+    "toyota": ["corolla", "yaris", "camry"]
+}
+```
+
+# different ways to declare dictionaries
+```python
+player = dict(
+    first_name="mohamed",
+    last_name="ali",
+    age=40,
+    interests=['reading', 'programming']
+)
+
+keys = ['first_name', 'last_name', 'age', 'interests']
+values = ["mohamed","ali", 40, ['reading', 'programming'] ]
+player = dict(zip(keys, values))
+```
